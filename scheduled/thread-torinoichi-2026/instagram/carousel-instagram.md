@@ -1,5 +1,7 @@
 # Carousel Instagram: 酉の市 2026, Festival Kumade di Tokyo
 
+Status: terjadwal Senin, 16 November 2026 19:30 WIB · Buffer 6afa84d960a910801c6a30a2 · 9 slide
+
 Sumber: `jalan2jepang/drafts/thread-torinoichi-2026/threads/draft.md`
 Format: 9 slide, 1080 × 1350. Cover word: **kumade**.
 

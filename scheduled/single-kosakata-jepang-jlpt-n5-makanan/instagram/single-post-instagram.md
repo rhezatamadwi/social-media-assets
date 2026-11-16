@@ -1,5 +1,7 @@
 # Single image post — Kosakata JLPT N5: makanan
 
+Status: terjadwal Senin, 16 November 2026 19:30 WIB · Buffer 6afa84e160a910801c6a31c3 · 1 gambar
+
 Sumber: `jalan2jepang/drafts/single-kosakata-jepang-jlpt-n5-makanan/threads/draft.md`
 
 ## On-image copy
