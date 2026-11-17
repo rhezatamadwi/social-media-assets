@@ -1,5 +1,7 @@
 # Single image post — Kosakata JLPT N1: kondisi tubuh
 
+Status: terjadwal Selasa, 17 November 2026 20:00 WIB · Buffer 6afba84df83aaca8f39d21a2 · 1 gambar
+
 Sumber: `jalan2jepang/reviewed/single-kosakata-jepang-jlpt-n1-kondisi-tubuh/threads/draft.md`
 
 ## On-image copy
