@@ -1,5 +1,7 @@
 # Carousel Instagram: Bus Kota Kyoto Bakal Punya Dua Tarif
 
+Status: terjadwal Selasa, 17 November 2026 19:30 WIB · Buffer 6afba840f83aaca8f39d1975 · 9 slide
+
 Sumber: `jalan2jepang/reviewed/thread-kyoto-bus-tarif-dua-tingkat/threads/draft.md`
 Format: 9 slide, 1080 × 1350. Cover word: **bus**.
 
