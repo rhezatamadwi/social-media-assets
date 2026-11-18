@@ -1,5 +1,7 @@
 # Single image post — Kosakata JLPT N1: cuaca
 
+Status: terjadwal Rabu, 18 November 2026 20:00 WIB · Buffer 6afcfa0bfc933ac285b46694 · 1 gambar
+
 Sumber: `jalan2jepang/reviewed/single-kosakata-jepang-jlpt-n1-cuaca/threads/draft.md`
 
 ## On-image copy

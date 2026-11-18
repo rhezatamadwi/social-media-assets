@@ -1,5 +1,7 @@
 # Carousel Instagram: Futa, Panda Merah Tertua yang Masih Hidup di Penangkaran
 
+Status: terjadwal Rabu, 18 November 2026 19:30 WIB · Buffer 6afcf9fdf0c5ce9361b13763 · 9 slide
+
 Sumber: `jalan2jepang/reviewed/thread-futa-panda-merah-guinness-2026/threads/draft.md`
 Format: 9 slide, 1080 × 1350. Cover word: **panda**.
 
