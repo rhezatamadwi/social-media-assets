@@ -1,5 +1,7 @@
 # Single image post — Kosakata JLPT N5: perjalanan
 
+Status: terjadwal Kamis, 19 November 2026 20:00 WIB · Buffer 6afe4b6f4cace847b3881d07 · 1 gambar
+
 Sumber: `jalan2jepang/reviewed/single-kosakata-jepang-jlpt-n5-perjalanan/threads/draft.md`
 
 ## On-image copy
