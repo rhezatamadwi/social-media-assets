@@ -1,5 +1,7 @@
 # Carousel Instagram: Harta Nasional Hidup dari Budaya Sehari-hari
 
+Status: terjadwal Kamis, 19 November 2026 19:30 WIB · Buffer 6afe4b674cace847b3881739 · 9 slide
+
 Sumber: `jalan2jepang/reviewed/thread-harta-nasional-hidup-jepang/threads/draft.md` dan `research.md`
 Format: 9 slide, 1080 × 1350. Cover word: **sake**.
 
