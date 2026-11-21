@@ -1,5 +1,7 @@
 # Single image post — single-kosakata-jepang-jlpt-n2-perjalanan
 
+Status: terjadwal Sabtu, 21 November 2026 20:00 WIB · Buffer 6b00ed98d9cbb430a10c4d81 · 1 gambar
+
 ## On-image copy
 
 - Kicker: `JLPT N2 · PERJALANAN`

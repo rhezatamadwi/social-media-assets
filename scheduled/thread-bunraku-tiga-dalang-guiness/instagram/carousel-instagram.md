@@ -1,5 +1,7 @@
 # Carousel Instagram — thread-bunraku-tiga-dalang-guiness
 
+Status: terjadwal Sabtu, 21 November 2026 19:30 WIB · Buffer 6b00ed935e993799d83fdd32 · 9 slide
+
 9 slide, 1080×1350, washi `#FAF7F0` + tinta sumi `#1F2430` + merah torii `#C8352E`.
 Sumber: `jalan2jepang/reviewed/thread-bunraku-tiga-dalang-guiness/` (research.md, X/draft.md).
 
