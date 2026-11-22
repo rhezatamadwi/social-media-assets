@@ -1,6 +1,6 @@
 # Single image post — single-kosakata-jepang-jlpt-n3-makanan
 
-Status: draft repo `reviewed/`, aset di `drafts/` repo aset · 1 gambar + 1 Story
+Status: terjadwal Minggu, 22 November 2026 20:00 WIB · Buffer 6b023f04cc364169c1190f6c · 1 gambar + 1 Story
 
 Sumber: `jalan2jepang/reviewed/single-kosakata-jepang-jlpt-n3-makanan/` (X/draft.md, threads/draft.md)
 
