@@ -1,6 +1,6 @@
 # Single image post — single-kosakata-jepang-jlpt-n1-makanan-dapur
 
-Status: aset siap, menunggu Publisher. 1 gambar, 1080×1350, washi `#FAF7F0` + tinta sumi `#1F2430` + merah torii `#C8352E`.
+Status: terjadwal Senin, 23 November 2026 20:00 WIB · Buffer 6b0390dbcc364169c19baa89 · 1 gambar, 1080×1350, washi `#FAF7F0` + tinta sumi `#1F2430` + merah torii `#C8352E`.
 Sumber: `jalan2jepang/reviewed/single-kosakata-jepang-jlpt-n1-makanan-dapur/` (X/draft.md, threads/draft.md).
 
 ## On-image copy

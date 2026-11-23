@@ -1,6 +1,6 @@
 # Carousel Instagram — thread-jlpt-rata-rata-vs-batas-lulus
 
-Status: aset siap, menunggu Publisher. 9 slide, 1080×1350, washi `#FAF7F0` + tinta sumi `#1F2430` + merah torii `#C8352E`.
+Status: terjadwal Senin, 23 November 2026 19:30 WIB · Buffer 6b0390d5846b0ee907cffce6 · 9 slide, 1080×1350, washi `#FAF7F0` + tinta sumi `#1F2430` + merah torii `#C8352E`.
 Sumber: `jalan2jepang/reviewed/thread-jlpt-rata-rata-vs-batas-lulus/` (research.md, X/draft.md, threads/draft.md).
 
 ## Slide
