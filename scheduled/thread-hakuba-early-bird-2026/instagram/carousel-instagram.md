@@ -1,5 +1,7 @@
 # Carousel Instagram — thread-hakuba-early-bird-2026
 
+Status: terjadwal Selasa, 24 November 2026 19:30 WIB · Buffer 6b04e226db52b449cf12a728 · 9 slide
+
 9 slide, 1080×1350, washi `#FAF7F0` + tinta sumi `#1F2430` + merah torii `#C8352E`.
 Sumber: `jalan2jepang/reviewed/thread-hakuba-early-bird-2026/` (research.md, X/draft.md, threads/draft.md).
 

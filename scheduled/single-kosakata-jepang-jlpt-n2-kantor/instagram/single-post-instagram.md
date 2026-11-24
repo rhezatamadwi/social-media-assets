@@ -1,6 +1,6 @@
 # Single image post — single-kosakata-jepang-jlpt-n2-kantor
 
-Status: draft repo `reviewed/`, aset di `drafts/` repo aset · 1 gambar + 1 Story
+Status: terjadwal Selasa, 24 November 2026 20:00 WIB · Buffer 6b04e22c9a4bd32ca3e12189 · 1 gambar
 
 Sumber: `jalan2jepang/reviewed/single-kosakata-jepang-jlpt-n2-kantor/` (X/draft.md, threads/draft.md)
 
