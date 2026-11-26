@@ -1,5 +1,7 @@
 # Carousel Instagram — thread-harta-kuliner-jepang-2026
 
+Status: terjadwal Kamis, 26 November 2026 19:30 WIB · Buffer 6b077cb4a791bea1b23c38ed · 9 slide
+
 9 slide, 1080×1350, washi `#FAF7F0` + tinta sumi `#1F2430` + merah torii `#C8352E`.
 Sumber: `jalan2jepang/reviewed/thread-harta-kuliner-jepang-2026/` (research.md, X/draft.md, threads/draft.md).
 

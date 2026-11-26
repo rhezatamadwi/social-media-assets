@@ -1,6 +1,6 @@
 # Single image post — single-kosakata-jepang-jlpt-n4-kondisi-tubuh
 
-Status: draft repo `reviewed/`, aset di `drafts/` repo aset · 1 gambar + 1 Story
+Status: terjadwal Kamis, 26 November 2026 20:00 WIB · Buffer 6b077cb9d4eda4b659c298f1 · 1 gambar
 
 Sumber: `jalan2jepang/reviewed/single-kosakata-jepang-jlpt-n4-kondisi-tubuh/` (X/draft.md, threads/draft.md)
 
