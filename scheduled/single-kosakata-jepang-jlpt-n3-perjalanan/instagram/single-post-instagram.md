@@ -1,6 +1,7 @@
 # Single image post — single-kosakata-jepang-jlpt-n3-perjalanan
 
-Status: aset siap, belum dijadwalkan · rutin pipeline jalan2jepang pagi, 27 November 2026
+Status: terjadwal Jumat, 27 November 2026 20:00 WIB · Buffer 6b08d0ae548b6e180d47f7f2 · 1 gambar
+Status: Story terjadwal Jumat, 27 November 2026 20:15 WIB · Buffer 6b08d0bf9131f7416c5d6d8f · 1 gambar
 Sumber: `jalan2jepang/reviewed/single-kosakata-jepang-jlpt-n3-perjalanan/` (X/draft.md, threads/draft.md)
 
 ## On-image copy

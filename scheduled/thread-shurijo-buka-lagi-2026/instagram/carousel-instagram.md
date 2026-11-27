@@ -1,5 +1,8 @@
 # Carousel Instagram — thread-shurijo-buka-lagi-2026
 
+Status: terjadwal Jumat, 27 November 2026 19:30 WIB · Buffer 6b08d0ae548b6e180d47f7ae · 9 slide
+Status: Story terjadwal Jumat, 27 November 2026 19:45 WIB · Buffer 6b08d0bf548b6e180d48007f · 9 gambar
+
 9 slide, 1080×1350, washi `#FAF7F0` + tinta sumi `#1F2430` + merah torii `#C8352E`.
 Sumber: `jalan2jepang/reviewed/thread-shurijo-buka-lagi-2026/` (research.md, X/draft.md, threads/draft.md).
 
