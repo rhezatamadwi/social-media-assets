@@ -1,5 +1,7 @@
 # Carousel Instagram: Kunci Jawaban JLPT yang Dijual Bukan dari The Japan Foundation
 
+Status: terjadwal Sabtu, 28 November 2026 19:30 WIB · Buffer 6b0a1fd723fb5b7700055759 · 9 slide. Story: 19:45 WIB · Buffer 6b0a1fe1eab081a3f50c555f.
+
 Sumber: `jalan2jepang/reviewed/thread-jlpt-desember-2026-jualan-kunci-jawaban-60ee6e9/threads/draft.md`
 Format: 9 slide, 1080 × 1350. Cover word: **kunci**.
 

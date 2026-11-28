@@ -1,5 +1,7 @@
 # Single image post — single-kosakata-jepang-jlpt-n5-minuman-9346a69
 
+Status: terjadwal Sabtu, 28 November 2026 20:00 WIB · Buffer 6b0a1fd72a2e4f66cae63207 · 1 gambar. Story: 20:15 WIB · Buffer 6b0a1fe141454797ead7c655.
+
 ## On-image copy
 
 - Kicker: `JLPT N5 · MINUMAN`
